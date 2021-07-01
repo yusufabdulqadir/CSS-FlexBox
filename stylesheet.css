@@ -1,0 +1,17 @@
+
+.intro{
+   border: 2px solid red;
+   position: relative;
+}
+.text1{
+    position: absolute;
+    right: 20px
+}
+.text3{
+    position: fixed;
+    bottom: 10px;
+    padding: 10px;
+    background-color: seagreen;
+    color: seashell;
+   
+}

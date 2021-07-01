@@ -1,0 +1,17 @@
+.intro{
+    border: 2px red solid;
+  
+    display: flex;
+}
+.text{
+    font-size: 14px;
+  
+}
+
+@media screen and (max-width:600px) {
+    .intro{
+      
+        font-size: 14px;
+        flex-direction: column;
+    }
+}
